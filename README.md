@@ -21,6 +21,6 @@ indicate a statistically significant correlation between release year and kill c
 0.098 to 0.661). Although the demographic of women showed the strongest linear relationship, it remained
 weak and statistically insignificant. The statistical test also resulted in a linearity coefficient (0.216, 0.213,
 0.380, 0.105), concluding that there was a weak linear relationship between release year and kill counts for
-the four observed demographics (total kill count, male kill count, female kill count, and other(s) kill count.
+the four observed demographics (total kill count, male kill count, female kill count, and other(s) kill count).
 Ultimately, while descriptive trends suggest fluctuations in on-screen violence, statistical analysis does not
 support a clear upward trend in kill counts over the past two decades.
